@@ -1,0 +1,1 @@
+konumu C:\ dir. sql server server name farklý bilgisayarlarda farklý isimde oldupundan kodun içinden ismi deðiþtirlmediði sürece çalýþmayacaktýr.

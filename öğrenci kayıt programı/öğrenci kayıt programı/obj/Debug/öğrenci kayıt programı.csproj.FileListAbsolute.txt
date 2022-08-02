@@ -1,0 +1,10 @@
+C:\öğrenci kayıt programı\öğrenci kayıt programı\obj\Debug\öğrenci kayıt programı.csprojAssemblyReference.cache
+C:\öğrenci kayıt programı\öğrenci kayıt programı\obj\Debug\öğrenci_kayıt_programı.Properties.Resources.resources
+C:\öğrenci kayıt programı\öğrenci kayıt programı\obj\Debug\öğrenci kayıt programı.csproj.GenerateResource.cache
+C:\öğrenci kayıt programı\öğrenci kayıt programı\obj\Debug\öğrenci kayıt programı.csproj.CoreCompileInputs.cache
+C:\öğrenci kayıt programı\öğrenci kayıt programı\bin\Debug\öğrenci kayıt programı.exe.config
+C:\öğrenci kayıt programı\öğrenci kayıt programı\bin\Debug\öğrenci kayıt programı.exe
+C:\öğrenci kayıt programı\öğrenci kayıt programı\bin\Debug\öğrenci kayıt programı.pdb
+C:\öğrenci kayıt programı\öğrenci kayıt programı\obj\Debug\öğrenci_kayıt_programı.Form1.resources
+C:\öğrenci kayıt programı\öğrenci kayıt programı\obj\Debug\öğrenci kayıt programı.exe
+C:\öğrenci kayıt programı\öğrenci kayıt programı\obj\Debug\öğrenci kayıt programı.pdb
